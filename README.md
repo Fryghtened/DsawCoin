@@ -4,6 +4,9 @@ To run this on your own DB you need a table with the name ```ID``` and you need 
 
 Enjoy
 
+```
+CREATE TABLE ID (name VARCHAR(255), BALANCE VARCHAR(255))
+```
 
 ANNOUNCEMENTS
 
